@@ -6,7 +6,7 @@
   </nav>
 </template>
 
-<script setup>
+<script lang="ts" setup>
 const links = [
   {
     icon: "pi pi-github",
