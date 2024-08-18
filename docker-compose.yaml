@@ -1,0 +1,9 @@
+services:
+  frontend:
+    container_name: felipeoliveira.link
+    build: .
+    ports:
+      - "3003:3000"
+    command: sh -c "npm install && npm run dev"
+    volumes:
+      - './app:/usr/frontend'
