@@ -1,6 +1,6 @@
 services:
   frontend:
-    container_name: felipeoliveira.link
+    container_name: felipeoliveira.online
     build: .
     ports:
       - "3003:3000"

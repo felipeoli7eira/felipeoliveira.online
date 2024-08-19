@@ -1,6 +1,6 @@
 #!/bin/bash
 
-APP_CONTAINER_NAME='felipeoliveira.link'
+APP_CONTAINER_NAME='felipeoliveira.online'
 
 docker compose up -d
 

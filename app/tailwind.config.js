@@ -4,7 +4,7 @@ export default {
   theme: {
     color: {
       daisyblack: 'rgb(29 35 42)',
-      appred: '#ff0303'
+      apporange: 'rgb(255, 107, 1)'
     },
     extend: {
       fontFamily: {

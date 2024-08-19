@@ -1,8 +1,8 @@
 <template>
     <div class="mb-5">
-        <p class="mb-1">
-          <b class="font-bold">{{ props.company }}</b>, {{ props.locale }}: <span class="badge badge-ghost">{{ props.ocupation }}</span>
-        </p>
+        <nav class="mb-1">
+          <a :href="props.link" target="_blank" class="font-bold cursor-pointer underline decoration-dashed underline-offset-4">{{ props.company }}</a>, {{ props.locale }}: <span class="badge badge-ghost">{{ props.ocupation }}</span>
+        </nav>
 
         <p class="text-slate-300 mb-1 flex items-center space-x-3">
           <i class="pi pi-calendar"></i> <span>{{ props.dateRange }}</span>
@@ -18,6 +18,7 @@
         ocupation: string;
         dateRange: string;
         desc: string;
+        link: string;
     }
     const props = defineProps<Props>()
 </script>
