@@ -6,7 +6,7 @@
 </script>
 
 <template>
-  <div id="#app-component-root" class="max-w-screen-md mx-auto">
+  <div id="#app-component-root" class="max-w-screen-md mx-auto px-5 md:px-0">
     <Header />
     <Divider />
 

@@ -1,6 +1,6 @@
 <template>
     <footer class="p-7 flex flex-col text-center md:flex-row items-center justify-between">
-        <p>Feito com <i class="pi pi-heart-fill text-red-600"></i> Em 18/08/2024 Por Felipe A. Oliveira</p>
+        <p>Feito com <i class="pi pi-heart-fill text-red-600"></i> por Felipe A. Oliveira</p>
         <SocialLinks />
     </footer>
 </template>
