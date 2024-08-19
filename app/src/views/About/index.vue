@@ -67,7 +67,7 @@ const techs: Techs[] = [
   },
   {
     category: "Frameworks",
-    values: ["React", "Vue", "Angular", "Astro", "Nuxt", "Next", "Laravel", "IONIC", "Bootstrap", "daisyUI", "tailwind"],
+    values: ["React", "Vue", "Angular", "Astro", "Nuxt", "Next", "Laravel", "IONIC", "Bootstrap", "DaisyUI", "Tailwind"],
   },
   {
     category: "Bancos de dados",
