@@ -1,6 +1,6 @@
 <template>
     <SectionStructure title="Trabalhos">
-        <p>...</p>
+        <p>Em breve colocarei meus trabalhos aqui. Continue acompanhando.</p>
     </SectionStructure>
 </template>
 

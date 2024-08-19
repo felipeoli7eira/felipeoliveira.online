@@ -20,6 +20,10 @@ const links = [
     icon: "pi pi-instagram",
     url: "https://instagram.com/oli7eirafelipe",
   },
+  {
+    icon: "pi pi-whatsapp",
+    url: "https://wa.me/5596984157994",
+  }
 ];
 </script>
 

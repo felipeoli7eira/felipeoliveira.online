@@ -22,7 +22,7 @@
         </SectionStructure>
 
         <SectionStructure title="Tecnologias">
-            <p>...</p>
+            <p>Darei mais detalhes em breve. Continue acompanhando.</p>
         </SectionStructure>
     </div>
 </template>
