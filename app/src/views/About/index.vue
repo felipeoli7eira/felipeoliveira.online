@@ -9,7 +9,7 @@
       </p>
 
       <p class="mb-4 text-justify">
-        Não sou apaixonado por tecnologia, como você deve estar acostumado a ler em 10 de 10 perfils de profissionais de tecnologia,
+        Não sou apaixonado por tecnologia como você deve estar acostumado a ler em 10 de 10 perfis de profissionais de tecnologia,
         mas aprendi a gostar e adoro o que faço.
       </p>
 
@@ -30,7 +30,7 @@
 
     <SectionStructure title="Tecnologias">
       <p>
-        Essas são as tecnologias que possuo experiências/familiariadade/domínio
+        Essas são as tecnologias que possuo experiências/familiaridade/domínio
         atualmente:
       </p>
 
@@ -44,7 +44,7 @@
 
       <p class="mb-4">
         Possuo vivência com SCRUM, tenho conhecimento no uso de plataformas como github, gitlab, bitbucket e azure.
-        Tenho experiência e familiariadade com arquitetura de microsserviços, preparação de ambientes de desenvolvimento de novos projetos com Docker.
+        Tenho experiência e familiaridade com arquitetura de microsserviços e preparação de ambientes de desenvolvimento com Docker.
       </p>
 
       <p>Atualmente estou estudando C# com .NET</p>
