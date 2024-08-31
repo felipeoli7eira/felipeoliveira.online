@@ -71,7 +71,7 @@ const techs: Techs[] = [
   },
   {
     category: "Bancos de dados",
-    values: ["MySQL", "MariaDB", "MongoDB", "FireBase", "SQL Server"],
+    values: ["MySQL", "MariaDB", "MongoDB", "FireBase", "SQL Server", "PostgreSQL"],
   },
   {
     category: "Outros",
