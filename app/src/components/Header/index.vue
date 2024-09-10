@@ -19,7 +19,7 @@
 
     const primaryMenuItems: MenuItem[] = [
         {
-            label: 'Início',
+            label: 'Currículo',
             to: {
                 name: 'home'
             }
