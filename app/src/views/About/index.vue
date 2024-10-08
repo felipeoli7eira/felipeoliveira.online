@@ -79,6 +79,3 @@ const techs: Techs[] = [
   },
 ];
 </script>
-
-<style lang="scss" scoped>
-</style>

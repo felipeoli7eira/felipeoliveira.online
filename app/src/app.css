@@ -33,3 +33,7 @@ a {
 a:hover {
   color: rgb(var(--color-accent));
 }
+
+body {
+  background-image: url(/dots.svg);
+}

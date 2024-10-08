@@ -26,8 +26,4 @@ const router = createRouter({
   routes,
 });
 
-router.beforeEach((/* to */ _, __ /* from */, next) => {
-  return next();
-});
-
 export default router;
