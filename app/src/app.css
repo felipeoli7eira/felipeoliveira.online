@@ -37,3 +37,11 @@ a:hover {
 body {
   background-image: url(/dots.svg);
 }
+
+.router-link-exact-active, .wave-link {
+  color: rgb(var(--color-accent));
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}

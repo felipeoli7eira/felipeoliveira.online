@@ -8,7 +8,7 @@
 </script>
 
 <template>
-  <div class="max-w-screen-md mx-auto px-5 md:px-0">
+  <main class="max-w-screen-md mx-auto px-5 md:px-0">
     <ImageHeader />
 
     <Header />
@@ -18,5 +18,5 @@
 
     <SectionSeparator />
     <Footer />
-  </div>
+  </main>
 </template>

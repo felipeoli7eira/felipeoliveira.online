@@ -38,13 +38,3 @@
         }
     ]
 </script>
-
-<style lang="scss" scoped>
-    .router-link-exact-active {
-        color: rgb(var(--color-accent));
-        text-decoration-line: underline;
-        text-decoration-style: wavy;
-        text-decoration-thickness: 2px;
-        text-underline-offset: 4px;
-    }
-</style>
