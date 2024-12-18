@@ -36,7 +36,7 @@
     ,
     {
       icon: "pi pi-file-pdf",
-      url: "https://drive.google.com/file/d/1-P05Fs6dmScmkCYMT2XlVo8VH28Ut1sp/view?usp=drive_link",
+      url: "https://drive.google.com/file/d/1RRs-CjNwWcyNmXfOS2iB2Rw_ecFqR1tX/view?usp=sharing",
       target: "_blank"
     }
   ];
