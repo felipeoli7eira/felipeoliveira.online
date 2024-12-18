@@ -1,13 +1,7 @@
 <template>
   <div id="index">
     <SectionStructure title="Apresentação">
-      <p>
-        Programador full stack desde 2019, buscando as melhores práticas de
-        codificação, padrões, tecnologias e arquiteturas de sistemas para não
-        simplesmente ter um conhecimento generalista e conseguir entregar
-        tarefas, mas ser um profissional que entrega excelentes experiências de
-        ponta-a-ponta.
-      </p>
+      <p>Desenvolvedor full stack desde 2019, atuando em projetos do setor público e privado, especialista em entregar soluções completas de ponta a ponta e produtos que realmente agregam valor. Perfil autodidata e prático, sempre buscando o aprimoramento das habilidades enquanto entrega sistemas de alta qualidade que geram impacto positivo para o usuário final.</p>
       <SocialLinks />
     </SectionStructure>
 

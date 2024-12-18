@@ -5,12 +5,8 @@ const experiences = [
     ocupation: "Desenvolvedor full stack",
     dateRange: "FEV 2024 - AGO 2024",
     desc: `
-        Fui responsável por projetar e implementar recursos tanto no front
-        quanto no backend de aplicações feitas principalmente com React e
-        Laravel (microsserviços) com a finalidade de melhorar processos do
-        setor público. Desenvolvi um sistema chamado VAF, que ajudava no
-        processo de fiscalização das empresas dos municípios e gerava
-        indicadores e relatórios sobre o valor que elas agregam na economia.
+      Projetei e implementei de ponta a ponta o módulo VAF, uma solução para automatizar e otimizar a gestão fiscal em municípios, maximizando repasses de ICMS e reduzindo erros.
+      Atuei principalmente com React, Laravel, SQL Server e Apache NiFi em um sistema de relatórios e indicadores que aprimorou auditorias e planejamento tributário.
     `,
     link: "https://www.linkedin.com/company/acaruiy",
   },
@@ -20,9 +16,9 @@ const experiences = [
     ocupation: "Desenvolvedor full stack",
     dateRange: "ABR 2023 - NOV 2023",
     desc: `
-        Desenvolvi um sistema interno de onboarding e gestão de clientes com integração a sistemas terceiros.
-        Fiz preparação de ambientes de desenvolvimento para novos projetos, realizei manutenção e criei novas funcionalidades em projetos existentes.
-        Para tanto, utilizei tecnologias como VueJS, Laravel, Lumen, MariaDB, MySQL, MongoDB e Docker.
+        Desenvolvi um sistema interno de onboarding com análise de risco para investidores e gestão de clientes, integrando Big Data Corp para fornecer indicadores críticos aos setores responsáveis.
+        Projetei APIs robustas para o app exclusivo dos clientes, permitindo o acompanhamento em tempo real de resultados financeiros.
+        Essas e outras soluções entreguei utilizando principalmente VueJS, Laravel, MongoDB, MySQL e Docker.
     `,
     link: "",
   },
@@ -32,9 +28,8 @@ const experiences = [
     ocupation: "Desenvolvedor full stack",
     dateRange: "ABR 2023 - NOV 2023",
     desc: `
-        Desenvolvi CRM 's com HTML, CSS (Bootstrap), Javascript (JQuery), PHP (framework da empresa, PHP Orientado a Objeto, MVC), MySQL e Firebase.
-        Desenvolvi API ’s em PHP para conexão entre aplicativos e CRM 's.
-        Utilizei IONIC com angular, Sass e typescript no desenvolvimento mobile cross-plataform e dei suporte técnico em aplicativos e CRM 's.
+      Desenvolvi aplicativos e sistemas de gestão desses apps, como por exemplo o app TudoTemm, onde entregava aos usuários a experiência de compra de produtos alimentícios, delivery de fast food, contratação de serviços e turismo.
+      Para tanto utilizei tecnologias como IONIC com angular, typeScript, Firebase, PHP e MySQL, entregando sistemas escaláveis e alinhados às demandas de negócio.
     `,
     link: "https://site.alphacode.com.br",
   },
