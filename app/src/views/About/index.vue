@@ -5,24 +5,23 @@
         Sou programador full stack desde 2019, atuando com as melhores práticas de
         codificação, padrões, tecnologias e arquiteturas de sistemas para não
         simplesmente ter um conhecimento generalista e conseguir entregar
-        tarefas, mas ser um profissional que <strong>entrega excelentes experiências de ponta-a-ponta</strong>.
+        tarefas, mas ser um profissional que <strong>entrega excelentes experiências de ponta a ponta</strong>.
       </p>
 
       <p class="mb-4 text-justify">
-        Não sou apaixonado por tecnologia como você deve estar acostumado a ler em 10 de 10 perfis de profissionais de tecnologia,
-        mas aprendi a gostar e adoro o que faço.
+        Não sou apaixonado por tecnologia como você deve estar acostumado a ler em 10/10 perfis de profissionais por ai
+        mas aprendi a gostar e adoro o que faço. Eu realmente gosto de entregar excelêntes experiências mais do que construir software.
       </p>
 
       <p class="mb-4 text-justify">
-        Possuo experiência construindo aplicações complexas com as tecnologias
-        mais atuais do mercado como React, Vue, Angular, Laravel, Docker e etc,
-        e tenho capacidade e expertise para aprender novas tecnologias,
-        principalmente quando posso “aprender fazendo”.
+        Possuo experiência construindo aplicações no setor público e privado com as tecnologias
+        mais atuais do mercado como React, Vue, Angular, Laravel, Python, Docker, Ionic entre outras.
+        Tenho expertise para aprender novas tecnologias, principalmente quando posso “aprender fazendo”.
       </p>
 
       <p class="text-justify">
         Flexível e adaptável, desempenho minhas atividades sempre com o máximo de
-        cuidado com o que será entregue, pensando sempre a nível de time e
+        cuidado com o que será entregue, pensando sempre a nível de equipe e
         usuário final, desde a nomeação de uma variável autodescritiva até a
         entrega concreta e refinada do produto final.
       </p>
@@ -47,7 +46,7 @@
         Tenho experiência e familiaridade com arquitetura de microsserviços e preparação de ambientes de desenvolvimento com Docker.
       </p>
 
-      <p>Atualmente estou estudando C# com .NET</p>
+      <p>Atualmente estou estudando Go lang :)</p>
     </SectionStructure>
   </div>
 </template>
@@ -67,7 +66,7 @@ const techs: Techs[] = [
   },
   {
     category: "Frameworks",
-    values: ["React", "Vue", "Angular", "Astro", "Nuxt", "Next", "Laravel", "IONIC", "Bootstrap", "DaisyUI", "Tailwind"],
+    values: ["React", "Vue", "Angular", "Astro", "Nuxt", "Next", "Laravel", "Symfony", "IONIC", "Bootstrap", "DaisyUI", "Tailwind"],
   },
   {
     category: "Bancos de dados",

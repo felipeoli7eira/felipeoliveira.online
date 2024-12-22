@@ -1,7 +1,7 @@
 <template>
   <div id="index">
     <SectionStructure title="Apresentação">
-      <p>Desenvolvedor full stack desde 2019, atuando em projetos do setor público e privado, especialista em entregar soluções completas de ponta a ponta e produtos que realmente agregam valor. Perfil autodidata e prático, sempre buscando o aprimoramento das habilidades enquanto entrega sistemas de alta qualidade que geram impacto positivo para o usuário final.</p>
+      <p>Desenvolvedor full stack desde 2019, atuando em projetos do setor público e privado, produtos novos e sistemas legados, especialista em entregar soluções completas de ponta a ponta que realmente agregam valor. Perfil autodidata e prático, sempre buscando o aprimoramento das habilidades enquanto entrega sistemas de alta qualidade que geram impacto positivo para o usuário final.</p>
       <SocialLinks />
     </SectionStructure>
 
